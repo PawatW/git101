@@ -2,8 +2,8 @@
 
 int main() {
     
-    char text[] = "hello Git";
-    printf("%s",text);
+
+    printf("\n");
 
     return 0;
 }
