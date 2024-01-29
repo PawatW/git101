@@ -5,6 +5,7 @@ int main(){
     //endl = \n
     //cout = console output
     cout << "Love c++ "<< endl;
+    cout << "Hello C++"<< endl;
 
 
 
